@@ -6,6 +6,9 @@ add(){
 sub(){
   printf("substraction");
 }
-mul();
+mul()
+{
+ printf("multiplication");
+}
 div();
 }
